@@ -1,5 +1,5 @@
 # LCD Font Editor
-
+![Image of LCD Font Editor](https://raw.githubusercontent.com/KiLLAAA/PROJECT/master/images/lcdfonteditor.gif)
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
 Written by Lukas Vyhnalek aka KiLLA.<br/>
